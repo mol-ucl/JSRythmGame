@@ -1,1 +1,1 @@
-JavaScriptで動く音ゲー
+JavaScriptで動く音ゲーです。
