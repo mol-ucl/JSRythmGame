@@ -1,4 +1,4 @@
 JavaScriptで動く音ゲーです。
 code内のindex.htmlをGoogle Chromeなどで開くと遊べます。
 
-譜面を自作したい場合などには、make_note.pyやnote内のテキストファイルを参考に作ってみてください。
+譜面を自作したい場合などには、make_note.pyやnote_info内のテキストファイルを参考に作ってみてください。
